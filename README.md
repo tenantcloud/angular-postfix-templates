@@ -6,9 +6,11 @@ How to:
 
 2) Clone this repo to your local machine https://github.com/tenantcloud/angular-postfix-templates.git
 
-3) Click on the "+" sign and choose Javascript from the dropdown
+3) Go to *Preferences | Editor | Custom Postfix Templates*
 
-4) Add local path in *Preferences | Editor | Custom Postfix Templates*:
+4) Click on the "+" sign in the Template files and choose Javascript from the dropdown
+
+5) Add local path in *Preferences | Editor | Custom Postfix Templates*:
     * Type: **Local file in your system**
     * URL: **\<path to your cloned project\>/spectator.postfixTemplates**
     * Local filename: **Spectator**
