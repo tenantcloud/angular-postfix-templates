@@ -1,0 +1,4 @@
+## templates for the spectator ##
+
+.sin : service = spectator.inject(Service)
+    ANY  →  $expr$ = spectator.inject($name*:capitalize(expr)$);
